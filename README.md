@@ -302,3 +302,13 @@ Read:
 - [LEGAL_NOTES.md](LEGAL_NOTES.md)
 - [CONTRIBUTOR_TERMS.md](CONTRIBUTOR_TERMS.md)
 - [TRADEMARK.md](TRADEMARK.md)
+
+---
+
+## Check ✅ Note
+
+On macOS, run this before installing Smavg 🐲
+
+```bash
+python3 -m pip install --upgrade pip setuptools wheel
+```
