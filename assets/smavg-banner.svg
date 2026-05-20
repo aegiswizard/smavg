@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Smavg banner</title>
+  <desc id="desc">Smavg is a local-first repetition firewall for data and AI agents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06110d"/>
+      <stop offset="0.55" stop-color="#0a1c15"/>
+      <stop offset="1" stop-color="#122015"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff1a8"/>
+      <stop offset="0.5" stop-color="#e5c84d"/>
+      <stop offset="1" stop-color="#8c6d10"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9dff83"/>
+      <stop offset="0.5" stop-color="#20b85b"/>
+      <stop offset="1" stop-color="#086137"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.25 0 0 0 0 1 0 0 0 0 0.48 0 0 0 0.38 0"/>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="420" rx="34" fill="url(#bg)"/>
+  <path d="M0 330 C210 260 360 380 570 305 C790 227 970 250 1400 120 L1400 420 L0 420 Z" fill="#0f2b1d" opacity="0.72"/>
+  <path d="M20 54 H1380" stroke="#d8c15a" stroke-width="1" opacity="0.35"/>
+  <path d="M20 366 H1380" stroke="#36d27a" stroke-width="1" opacity="0.22"/>
+
+  <g transform="translate(98 78)" filter="url(#glow)">
+    <circle cx="132" cy="132" r="122" fill="#08140f" stroke="url(#gold)" stroke-width="8"/>
+    <path d="M74 80 L42 36 L98 58 L126 20 L154 58 L212 36 L178 82 C205 104 216 135 203 166 C184 211 139 222 128 222 C112 222 69 210 51 166 C39 135 50 103 74 80 Z" fill="url(#green)" stroke="#08351f" stroke-width="6" stroke-linejoin="round"/>
+    <path d="M84 79 C102 58 150 58 171 80 C147 76 107 76 84 79 Z" fill="#eaf768" opacity="0.9"/>
+    <circle cx="96" cy="122" r="18" fill="#eaffef"/>
+    <circle cx="158" cy="122" r="18" fill="#eaffef"/>
+    <circle cx="100" cy="123" r="9" fill="#07110d"/>
+    <circle cx="154" cy="123" r="9" fill="#07110d"/>
+    <path d="M100 162 C114 174 144 174 158 162" fill="none" stroke="#07110d" stroke-width="8" stroke-linecap="round"/>
+    <path d="M91 184 L108 184 L104 208 Z M147 184 L164 184 L151 208 Z" fill="#fff1a8"/>
+    <path d="M55 154 C23 153 23 190 50 191" fill="none" stroke="url(#gold)" stroke-width="8" stroke-linecap="round"/>
+    <path d="M201 154 C234 153 234 190 206 191" fill="none" stroke="url(#gold)" stroke-width="8" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(345 86)">
+    <text x="0" y="54" fill="#f7f4df" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="70" font-weight="800" letter-spacing="0">Smavg 🐲</text>
+    <text x="0" y="112" fill="#d9efdf" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="600" letter-spacing="0">Local-first repetition firewall for data and AI agents</text>
+    <text x="0" y="164" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" letter-spacing="0">Save disk. Save tokens. Restore exact files.</text>
+    <text x="0" y="207" fill="#84b894" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" letter-spacing="0">No cloud. No API keys. No fake wins. Byte-perfect or it does not count.</text>
+
+    <g transform="translate(0 247)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">
+      <rect x="0" y="0" width="126" height="40" rx="20" fill="#153827" stroke="#2fce78"/>
+      <text x="22" y="26" fill="#d9ffe6">100 tests</text>
+      <rect x="145" y="0" width="133" height="40" rx="20" fill="#362b11" stroke="#d8c15a"/>
+      <text x="166" y="26" fill="#fff2ad">local-first</text>
+      <rect x="297" y="0" width="116" height="40" rx="20" fill="#153827" stroke="#2fce78"/>
+      <text x="320" y="26" fill="#d9ffe6">no cloud</text>
+      <rect x="432" y="0" width="154" height="40" rx="20" fill="#362b11" stroke="#d8c15a"/>
+      <text x="454" y="26" fill="#fff2ad">exact restore</text>
+      <rect x="605" y="0" width="144" height="40" rx="20" fill="#153827" stroke="#2fce78"/>
+      <text x="627" y="26" fill="#d9ffe6">0 fake wins</text>
+    </g>
+  </g>
+
+  <g transform="translate(1106 92)" opacity="0.9">
+    <rect x="0" y="0" width="194" height="222" rx="20" fill="#07120e" stroke="#2fce78" opacity="0.86"/>
+    <text x="28" y="47" fill="#e9ffe9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800">Core rule</text>
+    <text x="28" y="88" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Map first</text>
+    <text x="28" y="121" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Expand exact</text>
+    <text x="28" y="154" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Verify always</text>
+    <text x="28" y="187" fill="#f0d76d" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">Never fake</text>
+  </g>
+</svg>

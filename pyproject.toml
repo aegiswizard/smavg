@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "smavg"
+version = "0.1.0"
+description = "Local-first repetition firewall for data and AI agents."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [
+  { name = "Aegis Wizard" },
+  { name = "Roman Mataru" }
+]
+dependencies = []
+
+[project.optional-dependencies]
+ai = [
+  "sentence-transformers",
+  "chromadb",
+  "bsdiff4"
+]
+fuse-linux = [
+  "pyfuse3"
+]
+dev = []
+
+[project.scripts]
+smavg = "smavg.cli:main"
+smavg-mcp = "smavg.mcp_server:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,13 @@
+{
+  "format": "smavg-agent-plugin",
+  "version": 1,
+  "name": "smavg",
+  "title": "Smavg Repetition Firewall",
+  "brand": "Smavg",
+  "builder": "Aegis Wizard",
+  "founder": "Roman Mataru",
+  "license": "Smavg Modified MIT License, Version Genesis 1.0 2026",
+  "logic_policy": "wrap-smavg-core-only",
+  "description": "Local-first repetition firewall for data and AI agents.",
+  "truth_boundary": "This plugin contains wrapper instructions and MCP config only. It does not fork Smavg compression, context, restore, ledger, or verification logic."
+}

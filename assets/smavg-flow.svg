@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="460" viewBox="0 0 1400 460" role="img" aria-labelledby="title desc">
+  <title id="title">How Smavg works</title>
+  <desc id="desc">Repeated files and AI setup become a compact Smavg map, then exact archive restore and exact agent expansion.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#d8c15a"/>
+    </marker>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a1c15"/>
+      <stop offset="1" stop-color="#0d2a1b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="460" rx="28" fill="#06110d"/>
+  <text x="60" y="68" fill="#f7f4df" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">Smavg flow</text>
+  <text x="60" y="108" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22">Repeated information becomes a compact verified map. Exact bytes stay available on demand.</text>
+
+  <g transform="translate(60 165)">
+    <rect x="0" y="0" width="250" height="170" rx="18" fill="url(#panel)" stroke="#2fce78"/>
+    <text x="28" y="47" fill="#e9ffe9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Raw repetition</text>
+    <text x="28" y="88" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">versions</text>
+    <text x="28" y="117" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">logs</text>
+    <text x="28" y="146" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">memories</text>
+  </g>
+
+  <g transform="translate(365 165)">
+    <rect x="0" y="0" width="250" height="170" rx="18" fill="url(#panel)" stroke="#2fce78"/>
+    <text x="28" y="47" fill="#e9ffe9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">AI setup</text>
+    <text x="28" y="88" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">skills</text>
+    <text x="28" y="117" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">runbooks</text>
+    <text x="28" y="146" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">workflow context</text>
+  </g>
+
+  <line x1="640" y1="250" x2="800" y2="250" stroke="#d8c15a" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <g transform="translate(805 140)">
+    <rect x="0" y="0" width="260" height="220" rx="22" fill="#362b11" stroke="#d8c15a" stroke-width="2"/>
+    <text x="34" y="55" fill="#fff2ad" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="800">Smavg map</text>
+    <text x="34" y="99" fill="#f7f4df" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">templates once</text>
+    <text x="34" y="130" fill="#f7f4df" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">deltas only</text>
+    <text x="34" y="161" fill="#f7f4df" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">SHA-256 proof</text>
+    <text x="34" y="192" fill="#f7f4df" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">honest weak cases</text>
+  </g>
+
+  <line x1="1065" y1="205" x2="1154" y2="162" stroke="#d8c15a" stroke-width="5" marker-end="url(#arrow)"/>
+  <line x1="1065" y1="295" x2="1154" y2="338" stroke="#d8c15a" stroke-width="5" marker-end="url(#arrow)"/>
+
+  <g transform="translate(1165 92)">
+    <rect x="0" y="0" width="185" height="125" rx="18" fill="url(#panel)" stroke="#2fce78"/>
+    <text x="24" y="45" fill="#e9ffe9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="800">Storage</text>
+    <text x="24" y="82" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">exact archive</text>
+    <text x="24" y="108" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">restore</text>
+  </g>
+  <g transform="translate(1165 290)">
+    <rect x="0" y="0" width="185" height="125" rx="18" fill="url(#panel)" stroke="#2fce78"/>
+    <text x="24" y="45" fill="#e9ffe9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="800">Agents</text>
+    <text x="24" y="82" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">brief first</text>
+    <text x="24" y="108" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17">exact expand</text>
+  </g>
+</svg>

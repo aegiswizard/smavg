@@ -1,0 +1,250 @@
+[
+  {
+    "title": "US 11,301,420 B2 - Highly Reusable Deduplication Database After Disaster Recovery (CommVault)",
+    "url": "https://patentimages.storage.googleapis.com/d2/ee/27/486e5c997fcd4d/US11301420.pdf",
+    "type": "patent",
+    "patent_number": "US11301420B2",
+    "accessed_date": "2026-05-09",
+    "notes": "Verified PDF. Title, assignee, inventors, filing date 2016-06-29, grant date 2022-04-12."
+  },
+  {
+    "title": "US 9,633,033 B2 - High Availability Distributed Deduplicated Storage System (CommVault)",
+    "url": "https://patentimages.storage.googleapis.com/bc/d9/08/108c45115c5bbd/US9633033.pdf",
+    "type": "patent",
+    "patent_number": "US9633033B2",
+    "accessed_date": "2026-05-09",
+    "notes": "Verified PDF. Title, assignee, inventors, filing date 2014-01-10, grant date 2017-04-25."
+  },
+  {
+    "title": "US 9,570,873 B2 - Accessing a File System Using Tiered Deduplication (CommVault)",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/patent/US-9575673-B2",
+    "type": "patent",
+    "patent_number": "US9575673B2",
+    "accessed_date": "2026-05-09",
+    "notes": "Verified abstract and dates via PubChem patent page."
+  },
+  {
+    "title": "US 11,113,246 B2 - Accessing a File System Using Tiered Deduplication (CommVault)",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/patent/US-11113246-B2",
+    "type": "patent",
+    "patent_number": "US11113246B2",
+    "accessed_date": "2026-05-09",
+    "notes": "Verified abstract and dates via PubChem patent page."
+  },
+  {
+    "title": "US 8,548,944 - De-Duplication Based Backup of File Systems",
+    "url": "https://ptacts.uspto.gov/ptacts/public-informations/petitions/1461094/download-documents?artifactId=k1DM0beBLt5RYtYjjUwF83Yit5JXYXB0903Qddn_lr_zgEoV6VX_njI",
+    "type": "patent",
+    "patent_number": "US8548944",
+    "accessed_date": "2026-05-09",
+    "notes": "Verified via USPTO IPR petition PDF. Filed 2011-07-14, granted 2013-10-01."
+  },
+  {
+    "title": "EP 3,051,699 B1 - Hardware Efficient Rabin Fingerprints (Western Digital)",
+    "url": "https://data.epo.org/publication-server/rest/v1.2/patents/EP3051699NWB1/document.pdf",
+    "type": "patent",
+    "patent_number": "EP3051699B1",
+    "accessed_date": "2026-05-09",
+    "notes": "Verified EPO PDF. Filed 2016-01-27, granted 2021-06-23."
+  },
+  {
+    "title": "Ethan L. Miller CV - Pure Storage Patents (US 10,789,211; US 10,761,759)",
+    "url": "https://users.soe.ucsc.edu/~elm/cv.pdf",
+    "type": "patent_reference",
+    "patent_number": "US10789211; US10761759",
+    "accessed_date": "2026-05-09",
+    "notes": "CV lists patents with titles, dates, assignees. Verified against inventor records."
+  },
+  {
+    "title": "US 9,054,728 B2 - Data Compression Systems and Methods (Realtime Data LLC)",
+    "url": "https://fedcircuitblog.com/wp-content/uploads/2022/03/21-2251-RealtimeArray-Appeal-Opening-Br-CORRECTED.pdf",
+    "type": "patent",
+    "patent_number": "US9054728B2",
+    "accessed_date": "2026-05-09",
+    "notes": "Verified via Federal Circuit appeal document. Filed 2014-09-24, granted 2015-06-09."
+  },
+  {
+    "title": "US 8,610,605 B2 - Method and System for Data Compression (SAP AG)",
+    "url": "https://patentimages.storage.googleapis.com/fd/6c/16/70e87a89c45cd1/US8610605.pdf",
+    "type": "patent",
+    "patent_number": "US8610605B2",
+    "accessed_date": "2026-05-09",
+    "notes": "Verified PDF. Filed 2012-03-29, granted 2013-12-17."
+  },
+  {
+    "title": "CN 114,818,986 A - Text Similarity Calculation Deduplication Method",
+    "url": "https://eureka.patsnap.com/patent-CN114818986A",
+    "type": "patent_application",
+    "patent_number": "CN114818986A",
+    "accessed_date": "2026-05-09",
+    "notes": "Chinese patent application. Published 2022. Model-based similarity dedup."
+  },
+  {
+    "title": "CommVault Assigned Twenty Two Patents (StorageNewsletter)",
+    "url": "https://www.storagenewsletter.com/2019/12/23/commvault-assigned-twenty-two-patents/",
+    "type": "news_article",
+    "patent_number": "multiple",
+    "accessed_date": "2026-05-09",
+    "notes": "Lists US 10,489,249; US 10,481,826; US 10,474,638 with titles and dates."
+  },
+  {
+    "title": "EP 3,566,130 - ZFS Block-Level Cloud Deduplication (Oracle)",
+    "url": "https://economie.fgov.be/sites/default/files/Files/Intellectual-property/Recueil%20brevets/recueil-brevets-2024-15.pdf",
+    "type": "patent",
+    "patent_number": "EP3566130",
+    "accessed_date": "2026-05-09",
+    "notes": "Verified via Belgian patent validation bulletin. Validated 2023-12-13."
+  },
+  {
+    "title": "Git - git-pack-objects Documentation",
+    "url": "https://git-scm.com/docs/git-pack-objects/2.43.0",
+    "type": "documentation",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Official Git documentation on packfile creation and delta compression options."
+  },
+  {
+    "title": "Principles of Dataset Versioning: Exploring the Recreation/Storage Tradeoff (arXiv:1505.05211)",
+    "url": "https://arxiv.org/pdf/1505.05211",
+    "type": "academic_paper",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Reverse-engineers Git packfile delta algorithm and base selection heuristic."
+  },
+  {
+    "title": "bsdiff - Naive Differences of Executable Code (Colin Percival)",
+    "url": "http://www.daemonology.net/bsdiff/",
+    "type": "academic_paper",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Original bsdiff algorithm description and implementation."
+  },
+  {
+    "title": "Jon Ready - The Delta Compression Algorithm Used by macOS and Google Chrome (bsdiff)",
+    "url": "https://jonready.com/blog/posts/visualizing-bsdiff.html",
+    "type": "blog_post",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Interactive explanation of bsdiff with bytewise subtraction insight."
+  },
+  {
+    "title": "xdelta man page (Debian)",
+    "url": "https://manpages.debian.org/testing/xdelta/xdelta.1.en.html",
+    "type": "documentation",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Official xdelta man page describing delta, patch, and info subcommands."
+  },
+  {
+    "title": "Venti - Plan 9 Archival Storage Server (man page)",
+    "url": "https://9fans.github.io/plan9port/man/man8/venti.html",
+    "type": "documentation",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Venti man page describing SHA1-addressed archival storage."
+  },
+  {
+    "title": "Foundation - Fast, Inexpensive Content-Addressed Storage (MIT PDOS)",
+    "url": "https://swtch.com/~rsc/papers/fndn/",
+    "type": "academic_paper",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Foundation paper: consumer-grade CAS with Bloom filters, inspired by Venti."
+  },
+  {
+    "title": "LBFS - A Low-Bandwidth Network File System (SOSP 2001)",
+    "url": "https://pdos.csail.mit.edu/papers/lbfs:sosp01/lbfs.pdf",
+    "type": "academic_paper",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "LBFS paper: variable-size chunking with Rabin-like rolling hash and SHA-1 indexing."
+  },
+  {
+    "title": "BorgBackup - Internals Documentation",
+    "url": "https://borgbackup.readthedocs.io/en/stable/internals.html",
+    "type": "documentation",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Describes repository format, Buzhash chunking, encryption, and data structures."
+  },
+  {
+    "title": "Restic - Backup to Object Storage Tutorial (DigitalOcean)",
+    "url": "https://www.digitalocean.com/community/tutorials/how-to-back-up-data-to-an-object-storage-service-with-the-restic-backup-client",
+    "type": "documentation",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Describes Restic’s content-defined chunking, Rabin fingerprinting, encryption, and repository format."
+  },
+  {
+    "title": "Duplicacy - Lock-Free Deduplication",
+    "url": "https://duplicacy.com/",
+    "type": "documentation",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Describes lock-free dedup design and two-step fossil collection."
+  },
+  {
+    "title": "Oracle ZFS Storage Appliance - Architectural Overview",
+    "url": "https://www.oracle.com/a/otn/docs/architectural-overview-oracle-zfs-storage-appliance.pdf",
+    "type": "whitepaper",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Describes ZFS inline block dedup, DDT, and Hybrid Storage Pool."
+  },
+  {
+    "title": "NetApp and Oracle Settle Old Patent Litigation over ZFS (eWeek)",
+    "url": "https://www.eweek.com/storage/netapp-oracle-settle-old-patent-litigation-over-zfs/",
+    "type": "news_article",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Historical context on ZFS patent disputes."
+  },
+  {
+    "title": "Zstandard (zstd) GitHub Repository",
+    "url": "https://github.com/facebook/zstd",
+    "type": "open_source",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Facebook/Meta zstd compression library with dictionary training support."
+  },
+  {
+    "title": "Facebook Hit With Patent Suit Over Data Compression Tech (Bloomberg Law)",
+    "url": "https://news.bloomberglaw.com/ip-law/facebook-hit-with-patent-suit-over-data-compression-tech",
+    "type": "news_article",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Realtime Data LLC sued Facebook over Zstandard in 2018."
+  },
+  {
+    "title": "Drain: An Online Log Parsing Approach with Fixed Depth Tree (ICWS 2017)",
+    "url": "https://jiemingzhu.github.io/pub/pjhe_icws2017.pdf",
+    "type": "academic_paper",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Original Drain paper: fixed-depth tree for online log template extraction."
+  },
+  {
+    "title": "Drain3 - GitHub Repository (LogPAI)",
+    "url": "https://github.com/logpai/Drain3",
+    "type": "open_source",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Python 3 port of Drain with streaming and persistence features."
+  },
+  {
+    "title": "DeLog: An Efficient Log Compression Framework with Pattern Signature Synthesis (arXiv:2601.15084)",
+    "url": "https://arxiv.org/html/2601.15084v1",
+    "type": "academic_paper",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Recent survey of log compressors; identifies parser accuracy as key bottleneck."
+  },
+  {
+    "title": "Dynamic Prime Chunking Algorithm for Data Deduplication in Cloud Storage (Korea Science)",
+    "url": "https://www.koreascience.or.kr/article/JAKO202120941688285.pdf",
+    "type": "academic_paper",
+    "patent_number": null,
+    "accessed_date": "2026-05-09",
+    "notes": "Cites Ddelta, FastCDC, and comprehensive dedup survey by Xia et al."
+  }
+]

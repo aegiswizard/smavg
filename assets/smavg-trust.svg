@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
+  <title id="title">Smavg trust proof</title>
+  <desc id="desc">Smavg trust proof: tests, exact restore, local core, and no fake wins.</desc>
+  <rect width="1400" height="360" rx="28" fill="#06110d"/>
+  <text x="60" y="72" fill="#f7f4df" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">Trust is the product</text>
+  <text x="60" y="113" fill="#9fd3b0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22">Smavg only counts real measured wins. Exact restore or it does not count.</text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(60 165)">
+      <rect width="275" height="125" rx="18" fill="#0a1c15" stroke="#2fce78"/>
+      <text x="28" y="48" fill="#e9ffe9" font-size="30" font-weight="800">100/100</text>
+      <text x="28" y="86" fill="#9fd3b0" font-size="20">tests passed</text>
+    </g>
+    <g transform="translate(385 165)">
+      <rect width="275" height="125" rx="18" fill="#362b11" stroke="#d8c15a"/>
+      <text x="28" y="48" fill="#fff2ad" font-size="30" font-weight="800">16/16</text>
+      <text x="28" y="86" fill="#f7f4df" font-size="20">trust-wall passed</text>
+    </g>
+    <g transform="translate(710 165)">
+      <rect width="275" height="125" rx="18" fill="#0a1c15" stroke="#2fce78"/>
+      <text x="28" y="48" fill="#e9ffe9" font-size="30" font-weight="800">Exact</text>
+      <text x="28" y="86" fill="#9fd3b0" font-size="20">bytes on demand</text>
+    </g>
+    <g transform="translate(1035 165)">
+      <rect width="305" height="125" rx="18" fill="#0a1c15" stroke="#2fce78"/>
+      <text x="28" y="48" fill="#e9ffe9" font-size="30" font-weight="800">0</text>
+      <text x="28" y="86" fill="#9fd3b0" font-size="20">failures counted as wins</text>
+    </g>
+  </g>
+</svg>

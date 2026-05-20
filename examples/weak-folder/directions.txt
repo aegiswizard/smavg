@@ -1,0 +1,1 @@
+north south east west center

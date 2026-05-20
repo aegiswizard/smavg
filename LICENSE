@@ -1,0 +1,228 @@
+SMAVG 🐲
+Modified MIT License
+Version Genesis 1.0 2026
+
+Smavg 🐲 by Aegis Wizard 🧙‍♂️
+Author & Creator: Roman Mataru
+
+Copyright (c) 2026 Smavg 🐲 by Aegis Wizard 🧙‍♂️
+All rights reserved under the terms below.
+
+PREAMBLE
+
+This license governs the use, reproduction, modification, distribution, and
+commercialization of Smavg 🐲 and all associated source code, documentation,
+tools, agents, frameworks, APIs, plugins, examples, and derivative works
+(collectively, the "Software").
+
+Smavg 🐲 is an open project built in the spirit of open-source collaboration.
+It is designed to be free for individuals, researchers, startups, companies,
+and other organizations to use, modify, distribute, and build upon. When a
+commercial product or service reaches meaningful scale, clear attribution to
+the origin of the Software is a fair expectation.
+
+This license is modeled after the standard MIT License with additional origin
+attribution and commercial-scale attribution terms. It is intended to be
+permissive: there are no royalties or fees for use under this license, and no
+additional commercial-scale attribution obligation applies unless one of the
+thresholds in the Commercial Scale Attribution Clause is reached.
+
+For clarity: reaching a commercial-scale threshold does not by itself require
+payment, royalties, revenue share, or a paid license. The default requirement
+at commercial scale is prominent attribution. A separate commercial license is
+optional and is available for organizations that want attribution-free terms,
+dedicated support, legal indemnity, or custom deployment terms.
+
+This license is not legal advice. Parties are encouraged to consult their own
+counsel.
+
+Core Values:
+
+OPENNESS: Anyone can use, build, and ship without asking permission.
+FAIRNESS: Scale creates an obligation for acknowledgment.
+CLARITY: Terms should be readable without a lawyer.
+FLEXIBILITY: Build your business, fork it, go your own way — just do not erase
+where it came from.
+
+GRANT OF RIGHTS
+
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of the Software and associated documentation files, to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the conditions below.
+
+This grant covers personal, academic, research, internal business, startup,
+commercial, and open-source use, as well as modified, extended, forked, or
+derivative versions of the Software.
+
+CONDITIONS
+
+The following conditions apply to all use, copying, modification,
+distribution, public release, commercial deployment, sublicensing, and
+derivative works:
+
+1. Copyright Notice And License Preservation
+
+The copyright notice, this permission notice, and this full license text must
+be included in all copies or substantial portions of the Software, whether in
+source form, binary form, documentation, package metadata, or other distributed
+materials.
+
+2. Attribution In Public Or Commercial Derivative Works
+
+Any publicly released, distributed, or commercially deployed modified,
+extended, forked, or derivative version of the Software must include a clear
+acknowledgment of the original Software.
+
+For small, internal, private, or non-distributed forks, attribution is strongly
+encouraged but not required. For public releases, distributions, or commercial
+deployments, attribution is mandatory.
+
+Acceptable forms include:
+
+- "Based on Smavg 🐲 by Aegis Wizard 🧙‍♂️ (Roman Mataru)"
+- "Originally developed from Smavg 🐲 — github.com/aegiswizard/smavg"
+- "Derived from Smavg 🐲, authored by Roman Mataru"
+
+This attribution must appear in the LICENSE file, README, About/Credits
+section, package metadata, product documentation, or an equivalent location
+that is reasonably visible to users or developers. This is a record of origin,
+not an endorsement.
+
+3. No Misrepresentation Of Origin
+
+You may not claim authorship of the original Software. Modified versions must
+be clearly marked as modified and must not misrepresent their relationship to
+the original Software.
+
+COMMERCIAL SCALE ATTRIBUTION CLAUSE
+
+This clause activates only when a commercial product or service using the
+Software, or any derivative of the Software, reaches meaningful scale. Below
+the thresholds below, this clause creates no additional obligation beyond the
+conditions above.
+
+Threshold A — User Scale:
+Exceeds 1,000,000 (one million) monthly active users (MAU) in any calendar
+month.
+
+Threshold B — Revenue Scale:
+Generates more than $500,000 USD (five hundred thousand US dollars) in monthly
+gross revenue directly attributable to the product or service incorporating the
+Software, or equivalent value in any other currency at prevailing exchange
+rates.
+
+Threshold C — Compound:
+Simultaneously exceeds 500,000 (five hundred thousand) monthly active users
+and $250,000 USD (two hundred and fifty thousand US dollars) in directly
+attributable monthly gross revenue.
+
+Attribution Requirement When Triggered:
+
+Prominently display the following attribution:
+
+"Powered by Smavg 🐲 by Aegis Wizard 🧙‍♂️"
+
+For products with a primary user interface, this attribution must be visible
+without extra navigation, legible with reasonable contrast, and not hidden,
+collapsed, or obscured.
+
+For products without a traditional primary user interface, including but not
+limited to CLIs, APIs, SDKs, backend services, daemons, servers, infrastructure
+systems, and embedded systems, the attribution must appear in an equivalent
+high-visibility location determined in good faith, such as an about/help
+screen, command output, public documentation, developer console, service
+credits page, API documentation, package page, or administrative interface.
+
+Revenue and user counts are measured on a rolling 30-day basis. Licensees are
+responsible for good-faith self-assessment. The copyright holder may request
+reasonable compliance documentation with 30 days' written notice.
+
+COMMERCIAL LICENSING OPTION
+
+Companies or organizations that prefer to remove the commercial-scale
+attribution requirement, need legal indemnity, want dedicated support, or want
+custom deployment terms may request a separate commercial license from the
+copyright holder.
+
+A separate written commercial license may modify or replace the attribution
+requirements above only for the party and use case covered by that separate
+agreement.
+
+Contact: smavg@myyahoo.com
+
+DISCLAIMER OF WARRANTIES
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, INCLUDING BUT NOT
+LIMITED TO LOSS OF DATA, BUSINESS INTERRUPTION, AI-GENERATED OUTPUTS,
+SECURITY ISSUES, AUTONOMOUS USE, OR THIRD-PARTY CLAIMS. THE LICENSEE ASSUMES
+ALL RISK ASSOCIATED WITH USE OF THE SOFTWARE.
+
+AI-SPECIFIC PROVISIONS
+
+1. AI Outputs Disclaimer
+
+The copyright holder makes no warranty regarding the accuracy, safety,
+legality, appropriateness, usefulness, or compliance of any outputs from AI
+systems built with, connected to, or influenced by the Software. Licensees are
+solely responsible for legal, ethical, security, privacy, and regulatory
+compliance in their jurisdictions and domains of use.
+
+2. No Endorsement
+
+Use of the Software does not imply endorsement by the copyright holder. The
+names "Smavg 🐲", "Aegis Wizard 🧙‍♂️", and "Roman Mataru" may not be used to
+endorse, promote, market, or imply sponsorship of derivative products,
+services, or organizations without prior written permission from the copyright
+holder, except as required for attribution under this license.
+
+LICENSE VERSIONING AND FUTURE UPDATES
+
+The copyright holder may release future versions of the Software under updated
+license terms. Users of prior versions may continue using the version of the
+Software they received under the license terms that accompanied that version.
+Users are not required to adopt newer license terms unless they choose to use a
+newer version of the Software distributed under those newer terms.
+
+SUMMARY (Non-Binding Plain Language Guide)
+
+This summary is for convenience only. The full license text above governs in
+all cases.
+
+- Free for personal, academic, research, internal, startup, and commercial use.
+- Free to modify, fork, distribute, sublicense, and sell copies under the
+  license terms.
+- Public and commercial derivatives must credit Smavg 🐲 as the origin.
+- At 1,000,000 MAU or $500,000/month directly attributable revenue, display
+  "Powered by Smavg 🐲 by Aegis Wizard 🧙‍♂️" prominently.
+- Compound trigger: 500,000 MAU and $250,000/month directly attributable
+  revenue at the same time.
+- Revenue is measured only for the specific product or service using the
+  Software.
+- Reaching a commercial-scale threshold does not automatically require payment.
+  The default commercial-scale obligation is attribution.
+- Commercial licenses are optional and available for organizations that want
+  attribution-free terms, support, indemnity, or custom deployment terms.
+- Future versions may use updated license terms, but prior versions remain
+  usable under the terms received with that version.
+
+This license encourages open collaboration and building together.
+Thank you for using and improving Smavg 🐲.
+
+CONTACT
+
+Project: Smavg 🐲 by Aegis Wizard 🧙‍♂️
+Author & Creator: Roman Mataru
+Email: smavg@myyahoo.com
+GitHub: https://github.com/aegiswizard/smavg
+License: Smavg Modified MIT License, Version Genesis 1.0 2026
+
+END OF LICENSE

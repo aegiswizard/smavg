@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Smavg mark</title>
+  <desc id="desc">A green and gold dragon shield mark for Smavg.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06110d"/>
+      <stop offset="1" stop-color="#14351f"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff1a8"/>
+      <stop offset="1" stop-color="#b28c21"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#9dff83"/>
+      <stop offset="0.55" stop-color="#23bb63"/>
+      <stop offset="1" stop-color="#086137"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="96" fill="url(#bg)"/>
+  <path d="M256 48 L420 104 L391 322 C377 411 302 464 256 480 C210 464 135 411 121 322 L92 104 Z" fill="#08140f" stroke="url(#gold)" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M166 179 L108 100 L214 138 L256 68 L298 138 L404 100 L346 180 C383 212 396 263 374 311 C343 379 274 394 256 394 C238 394 169 379 138 311 C116 263 129 212 166 179 Z" fill="url(#green)" stroke="#042c1a" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M180 174 C211 143 302 143 334 175 C290 164 223 164 180 174 Z" fill="#e9f768" opacity="0.9"/>
+  <circle cx="205" cy="239" r="31" fill="#eaffef"/>
+  <circle cx="307" cy="239" r="31" fill="#eaffef"/>
+  <circle cx="214" cy="240" r="16" fill="#06110d"/>
+  <circle cx="298" cy="240" r="16" fill="#06110d"/>
+  <path d="M213 304 C237 325 276 325 300 304" fill="none" stroke="#06110d" stroke-width="17" stroke-linecap="round"/>
+  <path d="M193 339 L226 339 L217 386 Z M286 339 L319 339 L295 386 Z" fill="#fff1a8"/>
+  <path d="M139 290 C86 290 86 350 132 350" fill="none" stroke="url(#gold)" stroke-width="16" stroke-linecap="round"/>
+  <path d="M373 290 C426 290 426 350 380 350" fill="none" stroke="url(#gold)" stroke-width="16" stroke-linecap="round"/>
+</svg>

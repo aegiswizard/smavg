@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "smavg": {
+      "command": "python3",
+      "args": [
+        "-m",
+        "smavg.mcp_server"
+      ]
+    }
+  }
+}
