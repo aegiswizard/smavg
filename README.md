@@ -12,8 +12,7 @@
 
 **Smavg 🐲 is Local first repetition firewall for data and AI agents.**
 
-In plain language: Smavg finds repeated information, stores the repeating part
-once, and keeps exact files available when you need them.
+ℹ Smavg 🐲 finds repeated information, stores the repeating part once, and keeps exact files available when you need them.
 
 No cloud. No API keys. No fake results. Exact restore or it does not count.
 
