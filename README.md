@@ -1,13 +1,4 @@
 <p align="center">
-  <img src="assets/smavg-banner.svg" alt="Smavg banner" width="100%">
-</p>
-
-<p align="center">
-  <strong>Local-first repetition firewall for data and AI agents.</strong><br>
-  Save disk. Save tokens. Restore exact files.
-</p>
-
-<p align="center">
   <a href="TRUST.md">100 tests</a> ·
   <a href="SAFETY.md">local-first</a> ·
   <a href="FORMAT.md">exact restore</a> ·
@@ -17,21 +8,14 @@
 
 # Smavg 🐲
 
-Built by Aegis Wizard 🧙‍♂️. Founded by Roman Mataru.
+**Smavg 🐲 reduces up to x1364 times your disk space, saves tokens and restores exact files.**
 
-Smavg is a local-first repetition firewall for data and AI agents.
+**Smavg 🐲 is Local first repetition firewall for data and AI agents.**
 
 In plain language: Smavg finds repeated information, stores the repeating part
 once, and keeps exact files available when you need them.
 
 No cloud. No API keys. No fake results. Exact restore or it does not count.
-
-<p align="center">
-  <img src="assets/smavg-dragon-temp.jpg" alt="Temporary Smavg dragon mascot" width="128">
-</p>
-
-The dragon image above is the temporary Smavg mascot owned by Roman Mataru.
-Original SVG project assets live in [assets/](assets/).
 
 ## Start Here
 
@@ -319,28 +303,3 @@ Read:
 - [LEGAL_NOTES.md](LEGAL_NOTES.md)
 - [CONTRIBUTOR_TERMS.md](CONTRIBUTOR_TERMS.md)
 - [TRADEMARK.md](TRADEMARK.md)
-
-Do not describe Smavg as plain MIT. Use the full Genesis license name.
-
-Plain meaning:
-
-```text
-Free to use and build with.
-Commercial-scale attribution, not automatic payment.
-Optional commercial license for attribution-free/support/custom terms.
-```
-
-## North Star
-
-Smavg began as a better way to store repeated files.
-
-It became a local repetition firewall for both storage and AI agents.
-
-The same engine now saves disk, saves tokens, and retrieves exact data when
-needed.
-
-The future goal is simple:
-
-```text
-Smavg becomes the local operating memory layer for every machine and every AI agent.
-```
